@@ -14,6 +14,6 @@ Your challenge was build a QR code component and get it looking as close to the 
 
 This project was deployed using [Netlify](https://www.netlify.com/), check out the link below 😃.
 
-[QR Code Component](LINK AQUI)
+[QR Code Component](https://qr-component-niki-bear.netlify.app/)
 
 Project made by **Niki Bear** 🐻🚀
