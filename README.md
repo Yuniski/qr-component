@@ -1,6 +1,6 @@
 # QR Code Component
 
-(./design/myProjectComponent.png)
+![Project image, QR Card Component](./design/myProjectComponent.png)
 
 ## Welcome! 👋
 
